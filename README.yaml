@@ -1,9 +1,13 @@
 name: "aws-tgw"
 # Canonical GitHub repo
 github_repo: "cloudposse-terraform-components/aws-tgw"
-tags: []
+tags:
+  - layer/network
+  - provider/aws
 # Categories of this project
-categories: []
+categories:
+  - layer/network
+  - provider/aws
 # License of this project
 license: "APACHE2"
 # Badges to display
@@ -22,5 +26,7 @@ related:
     description: "Atmos is like docker-compose but for your infrastructure"
     url: "https://atmos.tools"
 contributors: [] # If included generates contribs
-description: |
+description: |-
   # Components
+   * [cross-region-hub-connector](https://github.com/cloudposse-terraform-components/aws-tgw/tree/main/src/cross-region-hub-connector)
+   * [hub](https://github.com/cloudposse-terraform-components/aws-tgw/tree/main/src/hub)
