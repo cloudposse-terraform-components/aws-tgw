@@ -30,3 +30,5 @@ description: |-
   # Components
    * [cross-region-hub-connector](https://github.com/cloudposse-terraform-components/aws-tgw/tree/main/src/cross-region-hub-connector)
    * [hub](https://github.com/cloudposse-terraform-components/aws-tgw/tree/main/src/hub)
+   * [spoke](https://github.com/cloudposse-terraform-components/aws-tgw/tree/main/src/spoke)
+   * [tgw](https://github.com/cloudposse-terraform-components/aws-tgw/tree/main/src/tgw)
