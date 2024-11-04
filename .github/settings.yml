@@ -2,6 +2,6 @@
 _extends: .github
 repository:
   name: aws-tgw
-  description: Template for Terraform Components
+  description: AWS Transit Gateway connects your Amazon Virtual Private Clouds (VPCs) and on-premises networks through a central hub
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
